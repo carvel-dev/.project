@@ -1,8 +1,6 @@
 # Maintainer roster for Carvel
 # Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
 
-# TODO: Add maintainer GitHub handles
-
 maintainers:
   - project_id: "carvel"
     org: "carvel-dev"
@@ -11,12 +9,14 @@ maintainers:
         members:
           - cppforlife
           - joaopapereira
+          - jbrunton
           - praveenrewar
           - 100mik
+          - prembhaskal
+          - ThomasVitale
           - Zebradil
           - mamachanko
+          - everettraven
+          - rashmigottipati
           - aroradaman
-          - renuy
-          - nikhita
-          - adriens
-          - jbrunton
+          - himsngh
