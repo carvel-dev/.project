@@ -29,7 +29,7 @@ repositories:
 
 website: "https://carvel.dev"
 
-artwork: "https://landscape.cncf.io/logos/carvel.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/carvel"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
